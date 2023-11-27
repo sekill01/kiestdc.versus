@@ -10,7 +10,7 @@ export default function Index() {
       <img width="500" src="/img/bck.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-          Kiest Bot
+          Arzen BOT
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
        Discord Sunucunuzu eğlenceli hale getirmek için aradığınız bot tam karşına hemen sunucuna ekle ve hem siz ve sunucunuzun kullanıcıları eğlensin... 
